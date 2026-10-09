@@ -1,0 +1,17 @@
+{
+  "name": "maiyu",
+  "owner": {
+    "name": "Tristan Tsvetanov"
+  },
+  "metadata": {
+    "description": "maiyu: a pixel-art coding companion who sits beside Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "maiyu",
+      "source": "./",
+      "description": "Ai-chan, a pixel-art coding companion who celebrates wins, cheers you through losses, and shows the diffs",
+      "version": "0.16.0"
+    }
+  ]
+}
